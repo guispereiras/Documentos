@@ -1,0 +1,1 @@
+Desenvolvendo estudos sobre dados, integração de sistemas via pipeline de dados
